@@ -1,0 +1,9 @@
+{
+  "name": "c-c",
+  "version": "0.0.0",
+  "description": "carbon copy custom element",
+  "main": "c-c.js",
+  "repository": "https://github.com/bahrus/c-c",
+  "author": "bahrus <anderson.bruce.b@gmail.com>",
+  "license": "MIT"
+}
